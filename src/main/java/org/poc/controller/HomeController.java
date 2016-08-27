@@ -14,7 +14,7 @@ public class HomeController {
     public String homePage(){
         return "index";
     }
-
+     
     @RequestMapping(path = "/login",method = RequestMethod.GET)
     public String loginPage(){
         return "login";
