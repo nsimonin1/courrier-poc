@@ -6,7 +6,7 @@
 	<groupId>org.poc</groupId>
 	<artifactId>courrier-poc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>courrier-poc</name>
 	<description>PoC de spring mvc,thymeleaf, spring security liquidbase etc.</description>
