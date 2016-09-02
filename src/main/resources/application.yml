@@ -1,3 +1,9 @@
 spring:
   thymeleaf:
     cache: false
+  jpa: 
+      hibernate: 
+          ddl-auto: none
+  h2:
+      console:
+          enable: true
